@@ -1,4 +1,4 @@
-# Nesse projeto, foi cobrada a capacidade de:
+# Nesse projeto, foi cobrado a capacidade de:
 
 - Entender o que são bancos de dados
 - Entender como a linguagem de consulta estruturada (SQL) é usada
